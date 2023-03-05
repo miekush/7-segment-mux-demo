@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "7-segment-mux-demo-pcb")(type "KiCad")(uri "${KIPRJMOD}/7-segment-mux-demo-pcb.kicad_sym")(options "")(descr ""))
+)
